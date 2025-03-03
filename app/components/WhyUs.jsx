@@ -14,7 +14,7 @@ export default function WhyUs() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-8 border-gray-300 pt-8">
           <div>
             <div className="text-3xl">
-              <ShoppingCart />
+              <ShoppingCart/>
             </div>
             <h3 className="font-bold text-lg mt-2">Original Products</h3>
             <p className="text-gray-600 mt-1">
